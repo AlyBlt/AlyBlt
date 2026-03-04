@@ -1,7 +1,6 @@
 # 👩‍💻 Aliye BULUT
 
-Backend Developer (.NET)
-Designing secure and scalable backend systems with ASP.NET Core
+Backend Developer (.NET) | ASP.NET Core | RESTful APIs | Clean Architecture
 
 📍 Turkey  
 📧 aly.bulut@gmail.com  
