@@ -1,7 +1,7 @@
 # 👩‍💻 Aliye BULUT
 
-Junior Software Developer | Biomedical Scientist  
-🎯 Focused on Backend Development with C# & .NET
+Backend Developer (.NET)
+Designing secure and scalable backend systems with ASP.NET Core
 
 📍 Turkey  
 📧 aly.bulut@gmail.com  
@@ -9,17 +9,20 @@ Junior Software Developer | Biomedical Scientist
 
 ---
 
-I'm a biomedical scientist with a PhD in Biomedical Engineering, currently transitioning into software development.  
-Currently focusing on backend development using **C#** and **.NET**, and participating in a backend specialization program.  
-- Strong interest in backend systems and software architecture  
-- Passion for continuous learning and building impactful applications
+Backend Developer with a PhD background in Biomedical Engineering, experienced in building
+secure and scalable ASP.NET Core Web APIs with authentication, layered architecture, database
+integration.
 
 ---
 
 ## 🚀 Technical Skills
 
-- **Languages & Technologies:** C#, .NET, HTML, CSS, JavaScript, MATLAB, LaTeX, MS Office  
-- **Tools:** Visual Studio, Git/GitHub
+- **Languages & Frameworks:** C#, .NET Core, ASP.NET Core Web API, HTML, CSS, JavaScript
+- **Backend:** RESTful APIs, Entity Framework Core, OOP, LINQ, Layered Architecture
+- **DevOps & Deployment:** Docker (basic), CI/CD fundamentals, Git workflows, Linux basics
+- **Databases:** SQL Server, Relational Database Design
+- **Tools & Technologies:** Git, GitHub, Visual Studio, Postman, Docker, WinSCP, MATLAB
+- **Other:** Scientific Writing, Technical Documentation, Project Planning
 
 ---
 
@@ -29,27 +32,3 @@ Currently focusing on backend development using **C#** and **.NET**, and partici
 - Turkish (Native)
 
 ---
-
-# 🇹🇷 Türkçe
-
-Junior Yazılım Geliştirici | Biyomedikal Bilimci  
-🎯 Şu anda C# ve .NET teknolojileriyle backend development alanına odaklanıyorum.
-
-Biyomedikal mühendisliği doktorasına sahip bir bilim insanı olarak, yazılım geliştirme alanına geçiş yapıyorum.  
-Aktif olarak backend uzmanlık programına katılıyor ve teknik becerilerimi geliştiriyorum.  
-- Backend sistemleri ve yazılım mimarisi konularına özel ilgi  
-- Sürekli öğrenme ve anlamlı projeler üretme tutkusu
-
----
-
-## 💻 Teknik Yetenekler
-
-- **Diller ve Teknolojiler:** C#, .NET, HTML, CSS, JavaScript, MATLAB, LaTeX, MS Office  
-- **Araçlar:** Visual Studio, Git/GitHub
-
----
-
-## 🌐 Diller
-
-- Türkçe (Ana dil)  
-- İngilizce (Akıcı)
